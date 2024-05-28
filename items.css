@@ -1,0 +1,9 @@
+/* ul but remove the bullet */
+ul {
+  list-style-type: none;
+}
+
+/* add blue h1 heading */
+h1 {
+  color: blue;
+}

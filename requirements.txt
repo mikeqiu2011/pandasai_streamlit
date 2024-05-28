@@ -1,0 +1,5 @@
+pandasai
+streamlit
+pandas
+pyyaml
+seaborn
